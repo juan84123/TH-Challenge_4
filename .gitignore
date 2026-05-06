@@ -1,18 +1,6 @@
-﻿# Entorno Virtual
-.venv/
-venv/
-env/
-
-# Python cache
-**/__pycache__/
-*.py[cod]
-
-# Base de datos local (Challenge)
-*.db
-*.sqlite3
-
-# Archivos de Jupyter
+﻿.venv/
+books.db
+authors_cache.json
 .ipynb_checkpoints/
-
-# Carpeta de VS Code
-.vscode/
+__pycache__/
+*.pyc
